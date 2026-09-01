@@ -1,0 +1,29 @@
+body{
+    background-color: #d5e1ef;
+    min-height: 100vh;
+    font-family: cursive;
+    text-align: center;
+}
+.card{
+     height:430px;
+      max-width: 270px;
+      width:100%;
+     position:fixed;
+     margin:auto;
+     inset:0;
+     box-shadow: 10px 10px 5px 12px lightblue;
+     background-color: white;
+     border-radius: 10px;
+     padding:19px;    
+}
+img{
+    width:270px;
+    height:250px;
+    border-radius: 10px;
+ }
+  p{
+    color:#262e45;
+  }
+  h3{
+    color:#243147;
+  }
